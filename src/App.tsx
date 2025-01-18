@@ -5,7 +5,7 @@ import Campus from "./components/Campus";
 import Network from "./components/Network";
 import Donate from "./components/Donate";
 import Footer from "./components/Footer";
-import Images from "./components/StarterImages";
+// import Images from "./components/StarterImages";
 import TimeLines from "./components/TimeLine";
 // import Poster from "./components/Poster";
 
