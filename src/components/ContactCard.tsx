@@ -1,5 +1,5 @@
 // import React from 'react';
-import { Mail, Phone } from 'lucide-react';
+import { Mail, Phone } from "lucide-react";
 
 const ContactCard = () => {
     return (
@@ -20,12 +20,12 @@ const ContactCard = () => {
                             alumninet@iiitm.ac.in
                         </a>
                     </div>
-                    <div className="mt-4 flex items-center gap-4 bg-blue-50 rounded-lg p-4">
+                    {/* <div className="mt-4 flex items-center gap-4 bg-blue-50 rounded-lg p-4">
                         <Phone className="text-blue-600 w-6 h-6" />
                         <p className="text-lg font-medium text-gray-800">
                             +91-XXXXXXXXXX
                         </p>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </section>
