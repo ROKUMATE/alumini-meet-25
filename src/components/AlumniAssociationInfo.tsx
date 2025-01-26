@@ -23,7 +23,7 @@ const AlumniAssociationInfo = () => {
                         href="http://alumni.iiitm.ac.in"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-block px-8 py-3 bg-blue-600 text-white font-semibold rounded-md hover:bg-blue-700 shadow-md">
+                        className="justify-center  w-full text-center inline-block py-3 bg-blue-600 text-white font-semibold rounded-md hover:bg-blue-700 shadow-md">
                         Visit the Alumni Website
                     </a>
                 </div>

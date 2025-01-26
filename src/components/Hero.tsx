@@ -12,8 +12,9 @@ const Hero = () => {
                         </span>
                     </h1>
                     <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-                        <span className="font-bold">Dear Alumni,</span>
+                        <span className="font-bold">Dear Alumni, </span>
                         <span>
+                            {' '}
                             We are glad to state that the institute is
                             organizing the Alumni Meet 2025 on the dates 15-16
                             February, 2025 (Sat-Sun). We cordially invite all

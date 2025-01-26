@@ -19,7 +19,7 @@ const SubmitPhotoVideo = () => {
                 <div className="text-right">
                     <a
                         href="mailto:alumninet@iiitm.ac.in"
-                        className="inline-block px-8 py-3 bg-blue-600 text-white font-semibold rounded-md hover:bg-blue-700 shadow-md">
+                        className="justify-center  w-full text-center inline-block py-3 bg-blue-600 text-white font-semibold rounded-md hover:bg-blue-700 shadow-md">
                         Submit via Email
                     </a>
                 </div>
