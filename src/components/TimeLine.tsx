@@ -1,10 +1,6 @@
 // Importing Timeline component
 import { Timeline } from './ui/TimeLine';
 
-// Import Images
-// import College2 from '../assets/College2.png';
-// import College3 from '../assets/College3.png';
-
 function TimelineDemo() {
     const data = [
         {
@@ -41,43 +37,45 @@ function TimelineDemo() {
                             </strong>{' '}
                             3 PM to 4 PM
                         </li>
+                        <ul className="list-disc list-inside ml-5">
+                            <li>
+                                Felicitation of the Silver Jubilee and Crystal
+                                Jubilee Batches
+                            </li>
+                            <li>Launch of the Alumni Directory</li>
+                            <li>Launch of the Alumni Cell</li>
+                            <li>Launch of Alumni Cards</li>
+                            <li>
+                                IIITM Gwalior over the years: A video journey
+                            </li>
+                            <li>
+                                Alumni Connect Talk (alumni from foundation
+                                years of the institute)
+                            </li>
+                            <li>Presentation by team AASF</li>
+                            <li>Distinguished Alumni Awards</li>
+                        </ul>
                         <li>
-                            <strong>
-                                Felicitation of the Founding batch Silver
-                                Jubilee Batch PGDMIT 1998-2000
-                            </strong>
+                            <strong>Open House with the students:</strong> 4 to
+                            5 PM
                         </li>
                         <li>
-                            <strong>
-                                Batch Video of the founding batch PGDMIT
-                                1998-2000
-                            </strong>
+                            <strong>Distinguished Alumni Talks:</strong> 5 to 6
+                            PM
                         </li>
-                        <li>
-                            <strong>
-                                Felicitation of the Crystal Jubilee Batches
-                                (2010 Graduates):
-                            </strong>{' '}
-                            PhDs, IPG 2005-2010, MTech 2008-2010, and MBA
-                            2008-2010
-                        </li>
-                        <li>
-                            <strong>IIITM Gwalior over the years:</strong> A
-                            video journey
-                        </li>
-                        <li>
-                            <strong>Launch of the Alumni Directory</strong>
-                        </li>
-                        <li>
-                            <strong>Launch of the Alumni Cell</strong>
-                        </li>
-                        <li>
-                            <strong>Launch of Alumni Cards</strong>
-                        </li>
-                        <li>
-                            <strong>Open House with the students:</strong> 4 PM
-                            to 6 PM
-                        </li>
+                        <ul className="list-disc list-inside ml-5">
+                            <li>
+                                Distinguished Alumni Awardees Talk (Corporate)
+                            </li>
+                            <li>
+                                Distinguished Alumni Awardees Talk
+                                (Startup/Entrepreneurship)
+                            </li>
+                            <li>
+                                Distinguished Alumni Awardees Talk
+                                (Governance/Public Service)
+                            </li>
+                        </ul>
                         <li>
                             <strong>Cultural Evening and Gala Dinner:</strong> 6
                             PM onwards
@@ -98,59 +96,59 @@ function TimelineDemo() {
                             <strong>Breakfast:</strong> 9 AM to 10 AM
                         </li>
                         <li>
-                            <strong>Hybrid Batch Meetup:</strong> 10 AM to 11:30
-                            AM
-                        </li>
-                        <li>
                             <strong>
                                 Open House with the Director and Faculty (Hybrid
                                 Mode):
                             </strong>{' '}
-                            12 noon to 1:30 PM
+                            10 AM to 11:30 AM
                         </li>
-                        <li>
-                            <strong>Institute Alumni Relations</strong>
-                        </li>
-                        <li>
-                            <strong>Focus Groups</strong>
-                        </li>
-                        <li>
-                            <strong>
+                        <ul className="list-disc list-inside ml-5">
+                            <li>Institute Alumni Relations</li>
+                            <li>Focus Groups</li>
+                            <li>
                                 Structuring the Alumni Association and
                                 Signatories
-                            </strong>
-                        </li>
+                            </li>
+                            <li>Local and International Chapters</li>
+                        </ul>
                         <li>
-                            <strong>Local and International Chapters</strong>
+                            <strong>Talks:</strong> 11:30 AM to 1:30 PM
                         </li>
+                        <ul className="list-disc list-inside ml-5">
+                            <li>
+                                Distinguished Alumni Awardees Talk (Women
+                                Alumni)
+                            </li>
+                            <li>
+                                Distinguished Alumni Awardees Talk (Young
+                                Alumni)
+                            </li>
+                            <li>Alumni Connect Talk 1</li>
+                            <li>Alumni Connect Talk 2</li>
+                        </ul>
                         <li>
                             <strong>Lunch:</strong> 1:30 PM to 3 PM
                         </li>
                         <li>
-                            <strong>
-                                Talks (Distinguished Alumni Awardees Talks &
-                                Alumni Connect Talks):
-                            </strong>{' '}
-                            3 PM to 5 PM
+                            <strong>Talks:</strong> 3 to 4 PM
                         </li>
-                        <li>
-                            <strong>Distinguished Alumni Awardees Talks</strong>
-                        </li>
-                        <li>
-                            <strong>
-                                Alumni Connect Talks (AI/ML, software,
-                                electronics, management, corporate guidance,
-                                startups, governance, higher studies)
-                            </strong>
-                        </li>
+                        <ul className="list-disc list-inside ml-5">
+                            <li>Alumni Connect Talk 3</li>
+                            <li>Alumni Connect Talk 4</li>
+                            <li>Alumni Connect Talk 5</li>
+                        </ul>
                         <li>
                             <strong>
                                 Closing Ceremony of the Alumni Meet:
                             </strong>{' '}
-                            5 PM to 6 PM
+                            3 PM to 5 PM
                         </li>
+                        <ul className="list-disc list-inside ml-5">
+                            <li>Discussions with alumni/panel discussion</li>
+                            <li>Closing remarks</li>
+                        </ul>
                         <li>
-                            <strong>Distinguished Alumni Awards</strong>
+                            <strong>Hybrid Batch Meetup:</strong> 5 to 7 PM
                         </li>
                         <li>
                             <strong>Dinner:</strong> 8 PM onwards
